@@ -1,0 +1,91 @@
+body{
+   
+    background-color: khaki;
+}
+
+.titlebar{
+    text-align: center;
+    color: blue;
+}
+
+
+.first{
+    text-align: center;
+    color: red;
+}
+
+.time,h1{
+    padding: 5px;
+}
+
+.time{
+    padding: 10px;
+}
+
+.work{
+    padding: 5px;
+    text-decoration: aqua;
+}
+
+.catagories{
+    padding: 5px;
+}
+
+
+.salary{
+    padding: 5px;
+}
+
+.Notes{
+    text-align: center;
+}
+
+.submit-btn{
+    padding: 15px;
+}
+
+.locate{
+    text-align: center;
+}
+
+.add-button{
+    background-color: grey;
+    color: white;
+    border-radius: 30px;
+    position: relative;
+    left: 40%;
+    top: 0px;
+    cursor: pointer;
+    border: none;
+    padding: 20px;
+    font-size: 40px;
+    border: none;
+    z-index: 2;
+}
+
+/**.popup-overlay{
+    height: 250%;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.8;
+    display: none;
+}
+
+.popup-box{
+    height: 45%;
+    width: 35%;
+    background-color: rgb(102, 255, 0);
+    padding: 40px;
+    z-index: 2;
+    left: 30%;
+    right: 30px;
+    bottom: 40%;
+    top: 30%;
+    position: absolute;
+    border-radius: 20px;
+    display: none;
+}**/
+
